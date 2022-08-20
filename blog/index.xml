@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on 蛋糕大叔的網誌</title>
+    <link>https://cake11298.github.io/blog/</link>
+    <description>Recent content in blog on 蛋糕大叔的網誌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://cake11298.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>學歷 目前就讀於國立中央大學</title>
+      <link>https://cake11298.github.io/blog/life/</link>
+      <pubDate>Fri, 19 Aug 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://cake11298.github.io/blog/life/</guid>
+      <description>大一生活 大多數資訊都記錄在我的HackMD，只有少部份情況會更新這裡。</description>
+    </item>
+    
+    <item>
+      <title>縱橫股海</title>
+      <link>https://cake11298.github.io/blog/stock_new/</link>
+      <pubDate>Fri, 19 Aug 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://cake11298.github.io/blog/stock_new/</guid>
+      <description>倫飛 概念股 酷酷的股票區 大戶拉抬的小型上市公司</description>
+    </item>
+    
+    <item>
+      <title>修練日誌</title>
+      <link>https://cake11298.github.io/blog/python/</link>
+      <pubDate>Mon, 01 Aug 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://cake11298.github.io/blog/python/</guid>
+      <description>大頭像決定放上Allen老師 量化資訊領域啟蒙導師 </description>
+    </item>
+    
+  </channel>
+</rss>

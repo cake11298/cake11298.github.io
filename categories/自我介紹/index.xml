@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自我介紹 on 蛋糕大叔的網誌</title>
+    <link>https://cake11298.github.io/categories/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/</link>
+    <description>Recent content in 自我介紹 on 蛋糕大叔的網誌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 01 Aug 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://cake11298.github.io/categories/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>修練日誌</title>
+      <link>https://cake11298.github.io/blog/python/</link>
+      <pubDate>Mon, 01 Aug 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://cake11298.github.io/blog/python/</guid>
+      <description>大頭像決定放上Allen老師 量化資訊領域啟蒙導師 </description>
+    </item>
+    
+  </channel>
+</rss>
